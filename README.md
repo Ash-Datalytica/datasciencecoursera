@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repo for Courtsera course
+Repository for Courtsera course "Data Scientist's Toolbox"
